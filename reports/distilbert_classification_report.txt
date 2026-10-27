@@ -1,0 +1,27 @@
+                           precision    recall  f1-score   support
+
+               All Beauty       0.40      0.49      0.44       400
+          All Electronics       0.54      0.11      0.18       400
+               Appliances       0.65      0.78      0.71       400
+     Arts Crafts & Sewing       0.64      0.71      0.67       400
+               Automotive       0.64      0.69      0.66       400
+                     Baby       0.53      0.82      0.64       400
+            Baby Products       0.53      0.14      0.23       400
+                   Beauty       0.47      0.38      0.42       400
+Cell Phones & Accessories       0.58      0.90      0.71       400
+ Clothing Shoes & Jewelry       0.53      0.75      0.62       400
+              Electronics       0.53      0.70      0.60       400
+   Grocery & Gourmet Food       0.78      0.95      0.86       400
+   Health & Personal Care       0.68      0.39      0.49       400
+  Industrial & Scientific       0.37      0.36      0.37       400
+      Musical Instruments       0.86      0.85      0.86       400
+          Office Products       0.72      0.62      0.66       400
+      Patio Lawn & Garden       0.69      0.55      0.61       400
+             Pet Supplies       0.70      0.82      0.76       400
+        Sports & Outdoors       0.56      0.39      0.46       400
+ Tools & Home Improvement       0.60      0.60      0.60       400
+             Toys & Games       0.69      0.69      0.69       400
+
+                 accuracy                           0.60      8400
+                macro avg       0.60      0.60      0.58      8400
+             weighted avg       0.60      0.60      0.58      8400

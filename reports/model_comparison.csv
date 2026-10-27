@@ -1,0 +1,6 @@
+Model,Accuracy,Macro Precision,Macro Recall,Macro F1,Weighted Precision,Weighted Recall,Weighted F1
+ANN,0.2252,0.2122,0.2252,0.2027,0.2122,0.2252,0.2027
+CNN Image Only,0.0845,0.043,0.0845,0.0251,0.043,0.0845,0.0251
+LSTM Text Only,0.094,0.0805,0.094,0.0689,0.0805,0.094,0.0689
+CNN + LSTM Multimodal,0.2251,0.2027,0.2251,0.1805,0.2027,0.2251,0.1805
+DistilBERT Transformer,0.6045,0.6048,0.6045,0.583,0.6048,0.6045,0.583
